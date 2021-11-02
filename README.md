@@ -6,7 +6,7 @@
   1. AWS Certified Solutions Architect Associate
   2. Salesforce Certified Platform Developer I
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittrehan2000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
