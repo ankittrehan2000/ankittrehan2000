@@ -6,7 +6,7 @@
     - AWS Certified Solutions Architect Associate
     - Salesforce Certified Platform Developer I
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=onedark&rank=S,AAA,A,C,AA,B,SS,SSS)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ankittrehan2000/ankittrehan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
