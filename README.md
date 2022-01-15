@@ -2,10 +2,6 @@
 
 📚 Current student at Drexel University
 
-📜 Certifications:
-  1. AWS Certified Solutions Architect Associate
-  2. Salesforce Certified Platform Developer I
-
 ✍🏻 Medium Profile: <a href="https://ankittrehan2000.medium.com/">ankittrehan2000</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
