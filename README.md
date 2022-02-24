@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 📚 Current student at Drexel University
 
