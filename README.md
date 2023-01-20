@@ -6,6 +6,8 @@ Current Software Developer at <a href="https://cesium.com/team/ankit-trehan/">Ce
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankittrehan2000&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankittrehan2000&theme=dracula)
 <!--
 **ankittrehan2000/ankittrehan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
