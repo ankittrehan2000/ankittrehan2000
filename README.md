@@ -2,7 +2,7 @@
 
 Current Software Developer at <a href="https://cesium.com/team/ankit-trehan/">Cesium</a>
 
-✍🏻 Medium Profile: <a href="https://ankittrehan2000.medium.com/">ankittrehan2000</a>
+✍🏻 Medium Profile: <a href="https://ankittrehan2000.medium.com/">ankittrehan2000</a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ankittrehan2000&theme=algolia&margin-w=15&margin-h=15&rank=S,SSS,SS,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy) 
 
